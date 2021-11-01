@@ -1,0 +1,13 @@
+db:
+  host: "remotemysql.com"
+  user: "Q4TWVEItAD"
+  passwd: "1Rm4qJlGLN"
+  database: "Q4TWVEItAD"
+  auth_plugin: "mysql_native_password"
+
+system_pass:
+  admin: "admin@123"
+  
+# email_sender:
+#   email: "kalim.resource@gmail.com"
+#   pass: '@&&@+7'
